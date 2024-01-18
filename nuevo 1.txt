@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>mis hobies</title>
+  </head>
+  </body>
+     <p>en esta pagina os dire dos de mis hobies favoritos</p>
+	 <hr>
+	 <p>. <a href="bucadores.html">Buscadores</a></p>
+	 <p>. <a href="redes-sociales.html">gimasia</a></p>
+  </body>
+</html>
